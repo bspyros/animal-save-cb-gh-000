@@ -11,4 +11,6 @@ html {
 /* Write your solution here */
 /*234  406px to 1090px */
 
-@media only screen and
+@media only screen and (min-width: 406px) and (max-width: 1090px){
+  
+}
