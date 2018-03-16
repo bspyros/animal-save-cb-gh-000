@@ -5,8 +5,10 @@ html {
 #monkey {
   position: absolute;
   top: 550px;
-  right: 120px;
+  right: 0px;
 }
 
 /* Write your solution here */
-/*234*/
+/*234  406px to 1090px */
+
+@media only screen and 
